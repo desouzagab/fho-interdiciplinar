@@ -1,0 +1,11 @@
+Joao Paulo Marques     RA:102654
+Gabriel de Souza Silva RA:107291
+Lorran Kuhl            RA:102145
+Lucas Pedrini          RA:102136
+
+
+
+
+
+
+OBS: O aluno Bruno Angelo(RA:87147), da turma B, também teve particapaçao na construção do codigo em C
